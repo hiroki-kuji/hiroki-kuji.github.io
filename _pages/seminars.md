@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /seminars/
 title: Seminars
-nav: false
-nav_order: 1
+permalink: /seminars/
+parent: Presentations
 ---
+
 <!-- _pages/seminars.md -->
 <div class="publications">
 
