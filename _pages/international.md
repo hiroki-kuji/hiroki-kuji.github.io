@@ -2,7 +2,8 @@
 layout: page
 title: International conferences
 permalink: /international/
-parent: Presentations
+nav: false
+nav_order: 1
 ---
 
 <!-- _pages/international.md -->
