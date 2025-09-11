@@ -2,7 +2,8 @@
 layout: page
 title: Domestic conferences
 permalink: /domestic/
-parent: Presentations
+nav: false
+nav_order: 1
 ---
 
 <!-- _pages/domestic.md -->
