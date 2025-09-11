@@ -2,7 +2,8 @@
 layout: page
 title: Seminars
 permalink: /seminars/
-parent: Presentations
+nav: false
+nav_order: 1
 ---
 
 <!-- _pages/seminars.md -->
