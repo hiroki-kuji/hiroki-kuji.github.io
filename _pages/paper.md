@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /paper/
-title: paper
+permalink: /papers/
+title: Papers
 description: Publications in reversed chronological order.
 years: [2025,2024]
 nav: true
