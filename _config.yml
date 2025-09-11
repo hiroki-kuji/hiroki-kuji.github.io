@@ -280,6 +280,13 @@ defaults:
       sitemap: false
       robots: noindex
 
+  - scope:
+      path: "projects"
+    values:
+      # デモの 1_project, 2_project… を一括で外す
+      sitemap: false
+      robots: noindex
+
 
 sass:
   style: compressed
