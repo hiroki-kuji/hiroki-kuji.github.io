@@ -16,6 +16,7 @@ nav_order: 1
 
 <h2>Contributed Talks</h2>
 <ol reversed>
+  <li> Hiroki Kuji, Masaya Kunimi, Tetsuro Nikuni, "Robust phase estimation of the ground-state energy without controlled time evolution on a quantum device,”2nd International Workshop on Quantum Information Engineering, Japan, October 2025. </li>
   <li> Hiroki Kuji, Masaya Kunimi, Tetsuro Nikuni, "Proposal for realizing quantum-spin systems on a two-dimensional square lattice with Dzyaloshinskii–Moriya interaction by the Floquet engineering using Rydberg atoms," Joint March Meeting and April Meeting: APS Global Physics Summit, United States, March 2025. </li>
 </ol>
 
