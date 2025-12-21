@@ -27,7 +27,12 @@ nav_order: 1
   <li> Hiroki Kuji, Masaya Kunimi, Tetsuro Nikuni, "Proposal for realizing quantum-spin systems on a two-dimensional square lattice with Dzyaloshinskii–Moriya interaction by the Floquet engineering using Rydberg atoms," BEC 2025, Spain, 10, September 2025. </li>
   <li> Hiroki Kuji, Yuta Shingu, Tetsuro Nikuni, Takashi Imoto, Kenji Sugisaki, Yuichiro Matsuzaki, “Robust phase estimation of the ground-state energy without controlled time evolution on a quantum device,” 25th Asian Quantum Information Science Conference (AQIS 2025), Hong Kong, 7, August 2025. </li>
   <li> Hiroki Kuji, Tetsuro Nikuni, Yuta Shingu, "Variational quantum-neural hybrid imaginary time evolution," Quantum Innovation 2025, Japan, 29,30, July 2025. </li>
+  <li> Mamiko Tatsuta, Yuichiro Matsuzaki, Hiroki Kuji, Ryusuke Hamazaki, Akira Shimizu, "A Wide Class of Quantum States that Surpass the SQL of Metrology," Quantum Innovation 2025, Japan, 29,30, July 2025. </li>
+  <li> Mitsuhiro Matsumoto, Takahiko Satoh, Junya Nakamura, Hiroki Kuji, Takaharu Yoshida, Shinichiro Sanji, "Applicability and Limitations of Quantum Circuit Cutting with Classical Computers: Order Estimation," 28th Quantum Information Processing Conference, United States, 25, February 2025. </li>
   <li> Hiroki Kuji, Masaya Kunimi, Tetsuro Nikuni, "Proposal for realizing quantum-spin systems on a two-dimensional square lattice with Dzyaloshinskii–Moriya interaction by the Floquet engineering using Rydberg atoms," Quantum Extreme Universe: Matter, Information, and Gravity, Japan, 21, October 2024. </li>
+  <li> Yuta Shingu, Hiroki Kuji, and Yuichiro Matsuzaki, "Controlled-time-evolution free imaginary time evolution," Quantum Extreme Universe: Matter, Information, and Gravity, Japan, 21, October 2024. </li>
+  <li> 
+Mitsuhiro Matsumoto, Junya Nakamura, Hiroki Kuji, Takaharu Yoshida and Takahiko Satoh, "Applicability and Limitations of Quantum Circuit Cutting with Classical Computers: Order Estimation," 24th Asian Quantum Information Science Conference (AQIS2024), Japan, 26, August 2024. </li>
   <li> Hiroki Kuji, Masaya Kunimi, Tetsuro Nikuni, "Proposal for realizing quantum-spin systems on a two-dimensional square lattice with Dzyaloshinskii–Moriya interaction by the Floquet engineering using Rydberg atoms," YITP Workshop: Quantum Simulation of Novel Phenomena with Ultracold Atoms and Molecules, Japan, 24, April 2024. </li>
 </ol>
 
