@@ -31,6 +31,7 @@ My research interests include:
 - Rydberg atom-based quantum system
 
 [東京理科大学理学研究科物理学専攻](https://www.tus.ac.jp/academics/graduate_school/science/physics/)、[二国研究室](https://www.rs.tus.ac.jp/~nikunigroup/)の博士課程に在籍しています。
+
 現在、ドイツ・シュトゥットガルト大学の [Hans Peter Büchler 研究室](https://www.itp3.uni-stuttgart.de/institute/team/)にて、1年間の研究滞在を行っています。
 
 
