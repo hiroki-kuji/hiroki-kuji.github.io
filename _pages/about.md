@@ -20,16 +20,17 @@ social: true  # includes social icons at the bottom of the page
 [![github](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/hlrokl)
 
 I am a PhD student at [Department of Physics, Tokyo University of Science](https://www.tus.ac.jp/en/) supervised by Prof. Tetsuro Nikuni ([group website](https://www.rs.tus.ac.jp/~nikunigroup/)).
+
 Currently, I am a visiting researcher at the University of Stuttgart, working with [Prof. Hans Peter Büchler’s group](https://www.itp3.uni-stuttgart.de/institute/team/) (Dec. 2024 – Dec. 2025).
 
-My research topic is on
+My research interests include:
 - Quantum computation and simulation
 - Quantum algorithm
 - Quantum error correction
 - Quantum information theory
 - Rydberg atom-based quantum system
 
-[東京理科大学理学研究科物理学専攻]((https://www.tus.ac.jp/academics/graduate_school/science/physics/))、[二国研究室](https://www.rs.tus.ac.jp/~nikunigroup/)の博士課程に在籍しています。
+[東京理科大学理学研究科物理学専攻](https://www.tus.ac.jp/academics/graduate_school/science/physics/)、[二国研究室](https://www.rs.tus.ac.jp/~nikunigroup/)の博士課程に在籍しています。
 現在、ドイツ・シュトゥットガルト大学の [Hans Peter Büchler 研究室](https://www.itp3.uni-stuttgart.de/institute/team/)にて、1年間の研究滞在を行っています。
 
 
