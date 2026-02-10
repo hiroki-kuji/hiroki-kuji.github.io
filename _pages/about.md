@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 [![scholar](https://img.shields.io/badge/Google%20Scholar-white?logo=googlescholar)](https://scholar.google.co.jp/citations?user=4p87k6gAAAAJ&hl=ja)
 [![orcid](https://img.shields.io/badge/ORCID-white?logo=orcid)](https://orcid.org/my-orcid?orcid=0009-0008-2183-5249)
-``[![github](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/hlrokl)''
+
 
 I am a PhD student at [Department of Physics, Tokyo University of Science](https://www.tus.ac.jp/en/) supervised by Prof. Tetsuro Nikuni ([group website](https://www.rs.tus.ac.jp/~nikunigroup/)).
 
