@@ -192,6 +192,9 @@
           {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awarded{% endif -%}
         </a>
       {% endif %}
+      {% if entry.abstract %}
+        <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+      {% endif %}
       {% if entry.doi %}
         <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
       {% endif %}
@@ -252,24 +255,10 @@
       {% if entry.website %}
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
+      {% if entry.url %}
+        <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button">URL</a>
+      {% endif %}
     </div>
-    {% if entry.arxiv or (entry.eprint and entry.archivePrefix == "arXiv") or entry.doi %}
-      <div class="periodical">
-        {% if entry.arxiv %}
-          arXiv URL:
-          <a href="https://arxiv.org/abs/{{ entry.arxiv }}">https://arxiv.org/abs/{{ entry.arxiv }}</a>
-          {% if entry.doi %}<br>{% endif %}
-        {% elsif entry.eprint and entry.archivePrefix == "arXiv" %}
-          arXiv URL:
-          <a href="https://arxiv.org/abs/{{ entry.eprint }}">https://arxiv.org/abs/{{ entry.eprint }}</a>
-          {% if entry.doi %}<br>{% endif %}
-        {% endif %}
-        {% if entry.doi %}
-          DOI URL:
-          <a href="https://doi.org/{{ entry.doi }}">https://doi.org/{{ entry.doi }}</a>
-        {% endif %}
-      </div>
-    {% endif %}
     {% if site.enable_publication_badges %}
       {% assign entry_has_altmetric_badge = false %}
       {% if entry.altmetric and entry.altmetric != 'false' %}
@@ -363,9 +352,9 @@
     {% endif %}
 
     {% if entry.abstract %}
-      <!-- Always visible abstract block -->
-      <div class="abstract hidden open">
-        <p><strong>Abstract:</strong> {{ entry.abstract }}</p>
+      <!-- Hidden abstract block -->
+      <div class="abstract hidden">
+        <p>{{ entry.abstract }}</p>
       </div>
     {% endif %}
 
