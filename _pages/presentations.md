@@ -1,6 +1,7 @@
 --- 
 layout: page 
 title: presentations 
+permalink: /presentations/
 nav: true 
 nav_order: 6 
 dropdown: true 
@@ -14,3 +15,9 @@ children:
   - title: Seminars
     permalink: /seminars/
 ---
+
+Select a category:
+
+- [International conferences](/international/)
+- [Domestic conferences](/domestic/)
+- [Seminars](/seminars/)
