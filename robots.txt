@@ -4,5 +4,4 @@ permalink: /robots.txt
 
 User-agent: *
 Allow: /
-Sitemap: https://hlrokl.github.io/sitemap.xml
-
+Sitemap: https://hiroki-kuji.github.io/sitemap.xml
