@@ -12,18 +12,21 @@
   abstract={While non-Hermitian Hamiltonians enable exotic dynamical phenomena, implementing their nonunitary time evolution on near-term quantum devices remains challenging. We propose a hardware-friendly protocol that simulates non-Hermitian dynamics without continuous monitoring. Gorini-Kossakowski-Sudarshan-Lindblad (GKSL) evolution via classical Gaussian white-noise averaging and to subsequently cancel the quantum-jump contribution at the level of the measured observable using stochastic quantum error mitigation (QEM). The scheme requires no ancillas or controlled time-evolution, while the mitigation layer uses only single-qubit operations. We validate the method through numerical simulations of a model with asymmetric hopping, interaction, and disorder. Our work provides a programmable and ancilla-free framework investigating exotic dynamics that are not completely-positive and trace-preserving using QEM.}
 }
 
-@misc{sato2025quantumcircuitlearningusing,
-  abbr={arXiv},
+@article{sato2025quantumcircuitlearningusing,
+  abbr={Jpn. J. Appl. Phys.},
   selected={false},
   bibtex_show={true},
-  title={Quantum Circuit Learning Using Non-Integrable System Dynamics},
-  author={Ryutaro Sato and Yasuhiro Aota and Takaharu Yoshida and Hideaki Kawaguchi and Yuichiro Mori and Hiroki Kuji and Yuichiro Matsuzaki},
-  year={2025},
-  eprint={2504.18090},
-  archivePrefix={arXiv},
-  primaryClass={quant-ph},
-  url={https://arxiv.org/abs/2504.18090},
-  abstract={Quantum machine learning is an approach that aims to improve the performance of machine learning methods by leveraging the properties of quantum computers. In quantum circuit learning (QCL), a supervised learning method that can be implemented using variational quantum algorithms (VQAs), the process of encoding input data into quantum states has been widely discussed for its important role on the expressive power of learning models. In particular, the properties of the eigenvalues of the Hamiltonian used for encoding significantly influence model performance. Recent encoding methods have demonstrated that the expressive power of learning models can be enhanced by applying exponentially large magnetic fields proportional to the number of qubits. However, this approach poses a challenge as it requires exponentially increasing magnetic fields, which are impractical for implementation in large-scale systems. Here, we propose a QCL method that leverages a non-integrable Hamiltonian for encoding, aiming to achieve both enhanced expressive power and practical feasibility. We find that the thermalization properties of non-integrable systems over long timescales, implying that the energy difference has a low probability to be degenerate, lead to an enhanced expressive power for QCL. Since the required magnetic field strength remains within a practical range, our approach to using the non-integrable system is suitable for large-scale quantum computers. Our results bridge the dynamics of non-integrable systems and the field of quantum machine learning, suggesting the potential for significant interdisciplinary contributions.}
+  title={Quantum circuit learning using complex spectra of non-integrable systems},
+  author={Sato, Ryutaro and Aota, Yasuhiro and Yoshida, Takaharu and Kawaguchi, Hideaki and Mori, Yuichiro and Kuji, Hiroki and Matsuzaki, Yuichiro},
+  journal={Jpn. J. Appl. Phys.},
+  volume={65},
+  number={11},
+  pages={112004},
+  year={2026},
+  month={jun},
+  doi={10.35848/1347-4065/ae6f5b},
+  arxiv={2504.18090},
+  abstract={Quantum machine learning is an approach that aims to improve the performance of machine learning methods by leveraging the properties of quantum computers. Quantum circuit learning (QCL) is a supervised learning framework that can be implemented using variational quantum algorithms. The parameterized quantum circuits are used as models that transform input data into predictions, and one can naturally represent a quantum model as a Fourier series of the data. The process of encoding input data into quantum states has been widely discussed for its important role in the learning models. In particular, the properties of the eigenvalues of the Hamiltonian used for encoding significantly influence the number of accessible Fourier components. Recent encoding methods have demonstrated that the number of accessible Fourier components can be enhanced by applying exponentially large magnetic fields proportional to the number of qubits. However, this approach poses a challenge as it requires exponentially increasing magnetic fields, which are impractical for implementation in large-scale systems. Here, we propose a QCL method that leverages a non-integrable Hamiltonian for encoding, aiming to achieve both practical feasibility and a large number of accessible Fourier components. We find that the thermalization properties of non-integrable systems over long timescales, implying that the energy difference has a low probability to be degenerate, lead to an exponentially large number of accessible Fourier components. Since the required magnetic field strength remains within a practical range, our approach to using the non-integrable system is suitable for intermediate-scale quantum computers. Our results bridge the dynamics of non-integrable systems and the field of quantum machine learning, suggesting the potential for significant interdisciplinary contributions.}
 }
 
 @article{machida2025identification,
