@@ -3,6 +3,7 @@
 ---
 @charset "utf-8";
 
+// Entry point for the site's compiled stylesheet.
 // Dimensions
 $max-content-width: {{ site.max_width }};
 
