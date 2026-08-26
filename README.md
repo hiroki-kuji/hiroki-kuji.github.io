@@ -14,6 +14,12 @@ bundle exec jekyll serve
 
 Open `http://localhost:4000` in a browser.
 
+To produce a static build without starting a server, run:
+
+```sh
+bundle exec jekyll build
+```
+
 ## Deployment
 
 Pushing to `main` runs the GitHub Actions workflow in
