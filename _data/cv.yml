@@ -31,26 +31,36 @@
 - title: Fellowships, Scholarships, and Research Assistantships
   type: time_table
   contents:
-    - title: JSPS Research Fellowship for Young Scientists (DC2, Grant Number 26KJ2001)
+    - title: JSPS Research Fellow (DC2)
       institution: Japan Society for the Promotion of Science (JSPS)
       year: Apr. 2026 – Mar. 2028
-    - title: ASPIRE Visiting Researcher
-      institution: Institute for Theoretical Physics III, University of Stuttgart (Prof. Hans-Peter Büchler)
-      year: Dec. 2025 – Dec. 2026
+      description:
+        - "Research project: Development of methods for simulating non-Hermitian dynamics on quantum computers."
+        - "研究課題名（日本語）: 量子コンピュータを用いた非エルミート系ダイナミクスのシミュレーション手法の構築"
+        - "Grant number: 26KJ2001."
+    - title: Visiting Researcher
+      institution: University of Stuttgart, Germany
+      year: Dec. 2025 – Oct. 2027
+      description:
+        - 'JST ASPIRE Japan–Germany project: “Quantum computing with neutral atoms”.'
+        - "Institute for Theoretical Physics III; Prof. Hans-Peter Büchler's group."
     - title: JASSO Type I Scholarship Repayment Exemption (50%)
       institution: Japan Student Services Organization
       year:  2025
-    - title: Research Assistant
+    - title: Research Assistant — Prof. Tetsuro Nikuni's group
       institution: Tokyo University of Science, Tokyo, Japan
-      description: Theoretical research on the development and applications of neutral atom quantum computers and quantum simulators.
+      description:
+        - 'Project: “Theoretical research on the development and applications of neutral-atom quantum computers and quantum simulators”.'
       year: Apr. 2025 – Nov. 2025
-    - title: Research Assistant
+    - title: Research Assistant — Prof. Yuichiro Matsuzaki's group
       institution: Chuo University, Tokyo, Japan
-      description: Theoretical proposals for quantum applications in distributed environments.
+      description:
+        - 'JST Moonshot Goal 6 project: “Scalable and Robust Integrated Quantum Communication System”.'
       year: Aug. 2024 – Nov. 2025
-    - title: Research Assistant
+    - title: Research Assistant — Prof. Takahiko Satoh's group
       institution: Keio University, Kanagawa, Japan
-      description: Quantum–AI hybrid cyber-physical systems, circuit segmentation technology development (NEDO).
+      description:
+        - 'NEDO project: “Quantum circuit partitioning library”, under “Development of Quantum-Classical Hybrid Use-Case Technologies in Cyber-Physical Space”.'
       year: Apr. 2024 – May 2025
 
 - title: Teaching Experience
